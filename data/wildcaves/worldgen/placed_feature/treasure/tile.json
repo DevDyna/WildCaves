@@ -1,0 +1,456 @@
+{
+  "feature": {
+    "type": "minecraft:simple_block",
+    "config": {
+      "to_place": {
+        "type": "minecraft:weighted_state_provider",
+        "entries": [
+          {
+            "weight": 8,
+            "data": {
+              "Name": "minecraft:crafting_table"
+            }
+          },
+          {
+            "weight": 8,
+            "data": {
+              "Name": "minecraft:smithing_table"
+            }
+          },
+          {
+            "weight": 8,
+            "data": {
+              "Name": "minecraft:brewing_stand",
+              "Properties": {
+                "has_bottle_0": "false",
+                "has_bottle_1": "false",
+                "has_bottle_2": "false"
+              }
+            }
+          },
+          {
+            "weight": 8,
+            "data": {
+              "Name": "minecraft:note_block",
+              "Properties": {
+                "powered": "false",
+                "note": "0",
+                "instrument": "basedrum"
+              }
+            }
+          },
+          {
+            "weight": 8,
+            "data": {
+              "Name": "minecraft:fletching_table"
+            }
+          },
+          {
+            "weight": 8,
+            "data": {
+              "Name": "minecraft:enchanting_table"
+            }
+          },
+          {
+            "weight": 8,
+            "data": {
+              "Name": "minecraft:jukebox",
+              "Properties": {
+                "has_record": "false"
+              }
+            }
+          },
+          {
+            "weight": 8,
+            "data": {
+              "Name": "minecraft:cauldron"
+            }
+          },
+          {
+            "weight": 3,
+            "data": {
+              "Name": "minecraft:water_cauldron",
+              "Properties": {
+                "level": "1"
+              }
+            }
+          },
+          {
+            "weight": 3,
+            "data": {
+              "Name": "minecraft:water_cauldron",
+              "Properties": {
+                "level": "2"
+              }
+            }
+          },
+          {
+            "weight": 3,
+            "data": {
+              "Name": "minecraft:water_cauldron",
+              "Properties": {
+                "level": "3"
+              }
+            }
+          },
+          {
+            "weight": 8,
+            "data": {
+              "Name": "minecraft:lava_cauldron"
+            }
+          },
+          {
+            "weight": 1,
+            "data": {
+              "Name": "minecraft:composter",
+              "Properties": {
+                "level": "0"
+              }
+            }
+          },
+          {
+            "weight": 1,
+            "data": {
+              "Name": "minecraft:composter",
+              "Properties": {
+                "level": "1"
+              }
+            }
+          },
+          {
+            "weight": 1,
+            "data": {
+              "Name": "minecraft:composter",
+              "Properties": {
+                "level": "2"
+              }
+            }
+          },
+          {
+            "weight": 1,
+            "data": {
+              "Name": "minecraft:composter",
+              "Properties": {
+                "level": "3"
+              }
+            }
+          },
+          {
+            "weight": 1,
+            "data": {
+              "Name": "minecraft:composter",
+              "Properties": {
+                "level": "4"
+              }
+            }
+          },
+          {
+            "weight": 1,
+            "data": {
+              "Name": "minecraft:composter",
+              "Properties": {
+                "level": "5"
+              }
+            }
+          },
+          {
+            "weight": 1,
+            "data": {
+              "Name": "minecraft:composter",
+              "Properties": {
+                "level": "6"
+              }
+            }
+          },
+          {
+            "weight": 1,
+            "data": {
+              "Name": "minecraft:composter",
+              "Properties": {
+                "level": "7"
+              }
+            }
+          },
+          {
+            "weight": 1,
+            "data": {
+              "Name": "minecraft:composter",
+              "Properties": {
+                "level": "8"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:chipped_anvil",
+              "Properties": {
+                "facing": "north"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:chipped_anvil",
+              "Properties": {
+                "facing": "south"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:chipped_anvil",
+              "Properties": {
+                "facing": "west"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:chipped_anvil",
+              "Properties": {
+                "facing": "east"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:damaged_anvil",
+              "Properties": {
+                "facing": "north"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:damaged_anvil",
+              "Properties": {
+                "facing": "south"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:damaged_anvil",
+              "Properties": {
+                "facing": "west"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:damaged_anvil",
+              "Properties": {
+                "facing": "east"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:stonecutter",
+              "Properties": {
+                "facing": "north"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:stonecutter",
+              "Properties": {
+                "facing": "south"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:stonecutter",
+              "Properties": {
+                "facing": "west"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:stonecutter",
+              "Properties": {
+                "facing": "east"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:furnace",
+              "Properties": {
+                "lit": "false",
+                "facing": "north"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:furnace",
+              "Properties": {
+                "lit": "false",
+                "facing": "south"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:furnace",
+              "Properties": {
+                "lit": "false",
+                "facing": "west"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:furnace",
+              "Properties": {
+                "lit": "false",
+                "facing": "east"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:blast_furnace",
+              "Properties": {
+                "facing": "north",
+                "lit": "false"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:blast_furnace",
+              "Properties": {
+                "facing": "south",
+                "lit": "false"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:blast_furnace",
+              "Properties": {
+                "facing": "west",
+                "lit": "false"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:blast_furnace",
+              "Properties": {
+                "facing": "east",
+                "lit": "false"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:smoker",
+              "Properties": {
+                "facing": "north",
+                "lit": "false"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:smoker",
+              "Properties": {
+                "facing": "south",
+                "lit": "false"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:smoker",
+              "Properties": {
+                "facing": "west",
+                "lit": "false"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:smoker",
+              "Properties": {
+                "facing": "east",
+                "lit": "false"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:grindstone",
+              "Properties": {
+                "face": "floor",
+                "facing": "north"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:grindstone",
+              "Properties": {
+                "face": "floor",
+                "facing": "south"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:grindstone",
+              "Properties": {
+                "face": "floor",
+                "facing": "west"
+              }
+            }
+          },
+          {
+            "weight": 2,
+            "data": {
+              "Name": "minecraft:grindstone",
+              "Properties": {
+                "face": "floor",
+                "facing": "east"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "placement": []
+}
