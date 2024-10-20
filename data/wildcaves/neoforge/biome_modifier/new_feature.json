@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#c:is_overworld",
+  "features": [
+    "wildcaves:treasure",
+    "wildcaves:justplace/vines",
+    "wildcaves:justplace/dripstone",
+    "wildcaves:sculk",
+    "wildcaves:grass",
+    "wildcaves:cobweb"
+  ],
+  "step": "vegetal_decoration"
+}
