@@ -1,6 +1,8 @@
 {
-    "pack": {
-        "description": "#MODID",
-        "pack_format": 8
-    }
+  "pack": {
+    "description": {
+      "text": "Wild Caves Reimaginated"
+    },
+    "pack_format": 56
+  }
 }
