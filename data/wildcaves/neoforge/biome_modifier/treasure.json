@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#c:spawn_treasure",
+  "features": [
+    "wildcaves:treasure"
+  ],
+  "step": "vegetal_decoration"
+}
