@@ -6,6 +6,8 @@
     "#c:is_tree/jungle",
     "#c:is_tree/savanna",
     "#c:is_cave",
+    "#c:is_plains",
+    "#c:is_plateau",
     "#c:is_ocean"
   ]
 }
