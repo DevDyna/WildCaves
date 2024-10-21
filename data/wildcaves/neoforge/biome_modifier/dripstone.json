@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#c:spawn_dripstone",
+  "features": [
+    "wildcaves:justplace/dripstone"
+  ],
+  "step": "vegetal_decoration"
+}
