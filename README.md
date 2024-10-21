@@ -1,8 +1,6 @@
 # WildCaves - Reimaginated
 <br>
 An expansion of current Mining system with new features and gameplay changes
-Inspired from the nostalgic [WildCaves3](https://legacy.curseforge.com/minecraft/mc-mods/wild-caves-3)
-
 <br>
 
 # All related features :
