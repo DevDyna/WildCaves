@@ -5,7 +5,7 @@ license="MIT"
 [[mods]]
     modId="wildcaves"
     version="1.0"
-    displayName="WildCaves Reimaginated"
+    displayName="WildCaves"
     description="Enhance your experience on mining!"
 	authors="DevDyna"
 	logoFile="pack.png"
