@@ -1,6 +1,6 @@
 {
   "type": "neoforge:add_features",
-  "biomes": "#c:spawn_feat_snowy",
+  "biomes": "#wildcaves:spawn_feat_snowy",
   "features": [
     "wildcaves:snowy/ice",
     "wildcaves:snowy/snow"
