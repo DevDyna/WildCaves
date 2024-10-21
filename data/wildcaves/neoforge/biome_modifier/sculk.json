@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#c:spawn_sculk",
+  "features": [
+    "wildcaves:sculk"
+  ],
+  "step": "vegetal_decoration"
+}
