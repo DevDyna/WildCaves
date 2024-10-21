@@ -1,7 +1,7 @@
 {
   "type": "minecraft:random_patch",
   "config": {
-    "tries": 24,
+    "tries": 6,
     "xz_spread": 7,
     "y_spread": 3,
     "feature": {
@@ -9,10 +9,6 @@
         "type": "minecraft:random_selector",
         "config": {
           "features": [
-            {
-              "chance": 0.5,
-              "feature": "wildcaves:treasure/tile"
-            },
             {
               "chance": 0.5,
               "feature": "wildcaves:treasure/light"
