@@ -1,2 +1,8 @@
 *.jar
 *.zip
+/assets
+/client_scripts
+/config
+/server_scripts
+/startup_scripts
+README.txt
