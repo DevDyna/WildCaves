@@ -8,7 +8,7 @@ An expansion of current Mining system with new features and gameplay changes
 
 # Future plans
 - [ ] More Treasures
-- [ ] Update to 1.21.2
+- [ ] Update to 1.21.2/1.21.3/1.21.4
 - [ ] Wiki Page
 - [ ] Mod compatibility
 - [ ] New Structures (?)
