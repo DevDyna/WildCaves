@@ -4,7 +4,7 @@ issueTrackerURL=""
 license="MIT"
 [[mods]]
     modId="wildcaves"
-    version="1.0"
+    version="1.1"
     displayName="WildCaves"
     description="Enhance your experience on mining!"
 	authors="DevDyna"
