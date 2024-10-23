@@ -7,8 +7,9 @@ An expansion of current Mining system with new features and gameplay changes
 [Description Page](https://legacy.curseforge.com/minecraft/mc-mods/wild-caves)
 
 # Future plans
+- [x] Rework of miner loot
 - [ ] More Treasures
-- [ ] Update to 1.21.2/1.21.3/1.21.4
+- [ ] Update to 1.21.2+
 - [ ] Wiki Page
 - [ ] Mod compatibility
 - [ ] New Structures (?)
