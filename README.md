@@ -9,10 +9,8 @@ An expansion of current Mining system with new features and gameplay changes
 # Future plans
 - [x] Rework of miner loot
 - [ ] More Treasures
-- [ ] Update to 1.21.2+
 - [ ] Wiki Page
 - [ ] Mod compatibility
 - [ ] New Structures (?)
 - [ ] Mushroom Cave Biome
-- [ ] Pale Cave Biome (?)
 - [ ] More Void-End features
