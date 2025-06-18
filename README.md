@@ -1,5 +1,6 @@
 # WildCaves - Reimaginated
-<br>
+
 An expansion of current Mining system with new features and gameplay changes
-<br>
+
+This repository was moved to [DataThings/Wild-Caves](https://github.com/DevDyna/DataThings/tree/Wild-Caves)
 
